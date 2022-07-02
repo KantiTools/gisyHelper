@@ -1,0 +1,161 @@
+body {
+  background-color: black;
+}
+
+nav_right_outer_box {
+  background-color: black;
+}
+
+.nav_vertical_container_grey_top {
+  background-color: black;
+}
+
+.nav_search_input {
+  color: white;
+  background-color: black;
+}
+
+.nav_right_message {
+  background-color: white;
+}
+
+#nav_right_outer_box {
+  background-color: black;
+}
+
+.nav_right_message {
+  background-color: black;
+}
+
+.nav_blind_link {
+  color: white;
+}
+
+.nms_usrf_color_legend_table {
+  background-color: black;
+}
+
+.nms_usrf_color_legend {
+  color: white;
+}
+
+#nav_center_two_clients {
+  border-left-color: #009DFF;
+  border-right-color: #009DFF;
+  border-bottom-color: #009DFF;
+}
+
+.nav_vertical_container_blue {
+  background-color: #009DFF;
+}
+
+.nav_top_center_first_cell {
+  background-color: black;
+  border-top-color: black;
+}
+
+.nav_top_center_title {
+  color: white;
+}
+
+.nav_top_center_subtitle {
+  color: white;
+}
+
+#nav_right {
+  border-bottom: 10px solid #009DFF;
+  border-right: 10px solid #009DFF;
+}
+
+#nav_top_header {
+  border-top-color: #009DFF;
+  border-left-color: #009DFF;
+  border-right-color: #009DFF;
+}
+
+#nav_left {
+  position: absolute;
+  margin-left: 16px;
+  left: 0px;
+  width: 250px;
+  top: 86px;
+  border-bottom: 10px solid #009DFF;
+  border-left: 10px solid #009DFF;
+  background-color: #000;
+}
+
+.nav_link A:hover {
+  color: #AEA9A9;
+}
+
+.nav_link A:visited {
+  color: white;
+}
+
+.nms_usrf_news_title_div {
+  color: #FFD8D8;
+  font-size: 125%;
+  margin-top: 19px;
+}
+
+.nms_usrf_news_subject_div {
+  font-weight: normal;
+  font-size: 106%;
+  color: #FFF;
+}
+
+.rmsg_list {
+  background-color: black;
+}
+
+.pinn_date {
+  font-size: 70%;
+  font-weight: bolder;
+  color: #cbbcff;
+  background-color: #000;
+  padding-left: 2px;
+  padding-top: 6px;
+}
+
+.pinn_subject {
+  font-size: 70%;
+  color: white;
+  background-color: #000;
+  padding-left: 2px;
+}
+
+.right_filler_title {
+  font-size: 70%;
+  font-weight: bolder;
+  color: #cbbcff;
+  background-color: #000;
+  padding-top: 4px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+}
+
+.right_filler {
+  font-size: 70%;
+  color: #0066BB;
+  background-color: #000;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+}
+
+.pinn_title {
+  font-weight: lighter;
+  color: #0066BB;
+  background-color: #000;
+}
+
+#nav_right_outer_box {
+  border: 1px solid #009DFF;
+}
+
+.nav_menu_grey_entry {
+  padding: 5px;
+  color: #336666;
+  background-color: #092959;
+  font-size: 70%;
+}
