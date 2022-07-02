@@ -1,13 +1,13 @@
-## KaschusoHelper
+## GisyHelper
 
-KaschusoHelper ist eine Firefox-Erweiterung, welche dem Kaschuso der Kantonsschule Solothurn einige nützliche Funktionen hinzufügt.
+GisyHelper ist eine Firefox-Erweiterung, welche dem Gisy der Kantonsschule Solothurn einige nützliche Funktionen hinzufügt.
 
 ### Funktionen:
-- Mit KaschusoHelper wird in der Notenübersicht der Notendurchschnitt und die Summe der fünf tiefsten Noten angezeigt
-- Weitere Funktionen sind geplant.
+- Das Gisy wird im "Darkmode" dargestellt.
+- Das Logo wird transparent dargestellt.
 
 ### Datenschutz
-KaschusoHelper sammelt oder übermittelt überhaupt keine Daten an uns oder an eine dritte Partei.
+GisyHelper sammelt oder übermittelt überhaupt keine Daten an uns oder an eine dritte Partei.
 
 Nun wird ja gesagt: "Vertrauen ist gut, Kontrolle ist besser." Dem stimmen wir zu, und unter anderem aus diesem Grund ist KaschusoHelper [Freie Software](https://de.wikipedia.org/wiki/Freie_Software) unter den Bedingungen der GNU General Public License v3, welche dem Benutzer unter anderem die folgenden vier Freiheiten einräumt:
 
@@ -20,4 +20,4 @@ Um jene Freiheiten zu ermöglichen, ist der Quellcode unserer Erweiterung unter 
 
 Bei Fragen und Anregungen kann man sich gerne an lorhof1@gmail.com wenden.
 
-KaschusoHelper ist nicht mit Mozilla, Centerboard oder der Kantonsschule Solothurn assoziiert.
+GisyHelper ist nicht mit Mozilla, Centerboard oder der Kantonsschule Solothurn assoziiert.
