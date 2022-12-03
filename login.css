@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-image: url('https://cloud.ksso.ch/index.php/apps/theming/image/background?v=29');
+  background-size: cover;
+ 
+}
+
+form {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
+.nav_img {
+  background-color: red;
+  width: 150px;
+  border: none;
+  outline: none;
+  height: 49px;
+  border-radius: 49px;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 10px 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.nav_img:hover {
+  color: red;
+  background-color: white;
+}
+
+.container {
+  top: 50%;
+  left: 50%;
+  width: 600px;
+  height: 300px;
+  
+  position: fixed;
+  transform: translate(-50%, -50%);
+}
+
+.blur {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border:1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.nav_vertical_container_grey_top {
+  width: 100%;
+  background-color: #f0f0f0;
+  margin: 10px 0;
+  height: 55px;
+  width: 500px;
+  border-radius: 55px;
+  display: grid;
+  grid-template-columns: 15% 85%;
+  padding: 0 0.4rem;
+  position: relative;
+}
+      
+      
+.nav_vertical_container_grey_top input {
+  background: none;
+  outline: none;
+  width: 480px;
+  padding: 0rem 1rem;
+  border: none;
+  line-height: 1;
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #333;
+}
+      
+.input-field input::placeholder {
+    color: #aaa;
+    font-weight: 500;
+}
+
+#nav_left {
+  margin-left: 0px;
+  left: 0px;
+  width: 0px;
+  top: 0px;
+  border-bottom: 0px ;
+  border-left: 0px;
+}
+
+#nav_center_two_clients {
+	padding: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	font-size: 0%;
+}
+
+#nav_right {
+  margin-right: 0px;
+  right: 0px;
+  width: 0px;
+  top: 0px;
+  border-bottom: 0px;
+  border-right: 0px;
+}
