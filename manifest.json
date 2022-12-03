@@ -1,15 +1,28 @@
 {
 	"manifest_version": 2,
-	"name": "GisyHelper",
+	"name": "Gisy-Design",
 	"version": "1.0",
 
-	"description": "Adds some tweaks to the KSSO's Gisy",
+	"description": "Not complete remake of Gisy",
+    "web_accessible_resources": [
+        "login.html",
+        "login.css"
+      ],
+
+      "permissions": [
+		"https://moodle.ksso.ch/schulinfo2/navigation/dispatcher.php",
+		"webRequest",
+		"<all_urls>"
+	  ],
 
 	"content_scripts":[
 		{
-			"matches": ["*://gisy.ksso.ch/*"],
-			"js": ["gisyHelper.js"],
-			"css": ["darkMode.css"]
-		}
+			"matches": ["*://gisy.ksso.ch/schulinfo2/navigation/dispatcher.php",
+        "*://gisy.ksso.ch/schulinfo2/navigation/dispatcher.php?n=3&amp;m=98&amp;p=1&amp;f=1000000&rmsg=Benutzer+existiert+nicht",
+    "*://gisy.ksso.ch/schulinfo2/navigation/dispatcher.php?n=3&amp;m=98&amp;p=1&amp;f=1000000&rmsg=Falsches+Passwort",
+"*://gisy.ksso.chschulinfo2/navigation/dispatcher.php?n=3&amp;m=98&amp;p=1&amp;f=1000000&rmsg=Benutzer+existiert+nicht"],
+            "js": ["login.js"],
+            "css": ["login.css"]
+        }
 	]
 }
