@@ -2,8 +2,8 @@
 GisyHelper (Working Title) is an extension which is supposed to help students of the KSSO in regards to the IT infrastructure.
 
 ### Features:
-- Shows Gisy in darkmode.
-- Adds a transparent Logo.
+- Shows a completely new design of the Gisy-Loginscreen
+- More coming soon
 
 ### FAQ:
 - Why is there no chrome version?
