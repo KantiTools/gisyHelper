@@ -1,0 +1,12 @@
+{
+  "addons": {
+    " {02bc50c5-75ac-40ff-bcb8-36a454e67d95}": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://github.com/KSSOTools/gisyHelper/releases/download/pre_v1.0/gisy_theme-1.0.xpi"
+        }
+      ]
+    }
+  }
+}
