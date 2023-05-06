@@ -9,6 +9,10 @@
           {
             "version": "2.0",
             "update_link": "https://github.com/KantiTools/gisyHelper/releases/download/redesign-v2.0/gisy_theme-2.0.xpi"
+          },
+          {
+            "version": "2.1",
+            "update_link": "https://github.com/KantiTools/gisyHelper/releases/download/redesign-v2.1/gisy_theme-2.1.xpi"
           }
         ]
       }
